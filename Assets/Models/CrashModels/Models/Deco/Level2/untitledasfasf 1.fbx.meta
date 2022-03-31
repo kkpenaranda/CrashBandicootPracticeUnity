@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: c041341c8b0922d45a7b742e8bf73484
+timeCreated: 1506609742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Cube
+    100004: Cube.001
+    100006: Fingers.L
+    100008: Fingers.L_end
+    100010: Fingers.R
+    100012: Fingers.R_end
+    100014: Foot.L
+    100016: Foot.R
+    100018: Hand.L
+    100020: Hand.R
+    100022: Head
+    100024: Hips
+    100026: Icosphere
+    100028: Icosphere.001
+    100030: LowerArm.L
+    100032: LowerArm.R
+    100034: LowerEar.L
+    100036: LowerEar.R
+    100038: LowerLeg.L
+    100040: LowerLeg.R
+    100042: LowerNose
+    100044: LowerSpine
+    100046: MiddleNose
+    100048: Nose
+    100050: Nose_end
+    100052: Pinky.L
+    100054: Pinky.L_end
+    100056: Pinky.R
+    100058: Pinky.R_end
+    100060: Plane
+    100062: Sphere
+    100064: Toe.L
+    100066: Toe.L_end
+    100068: Toe.R
+    100070: Toe.R_end
+    100072: //RootNode
+    100074: UpperArm.L
+    100076: UpperArm.R
+    100078: UpperEar.L
+    100080: UpperEar.L_end
+    100082: UpperEar.R
+    100084: UpperEar.R_end
+    100086: UpperLeg.L
+    100088: UpperLeg.R
+    100090: UpperSpine
+    400000: Armature
+    400002: Cube
+    400004: Cube.001
+    400006: Fingers.L
+    400008: Fingers.L_end
+    400010: Fingers.R
+    400012: Fingers.R_end
+    400014: Foot.L
+    400016: Foot.R
+    400018: Hand.L
+    400020: Hand.R
+    400022: Head
+    400024: Hips
+    400026: Icosphere
+    400028: Icosphere.001
+    400030: LowerArm.L
+    400032: LowerArm.R
+    400034: LowerEar.L
+    400036: LowerEar.R
+    400038: LowerLeg.L
+    400040: LowerLeg.R
+    400042: LowerNose
+    400044: LowerSpine
+    400046: MiddleNose
+    400048: Nose
+    400050: Nose_end
+    400052: Pinky.L
+    400054: Pinky.L_end
+    400056: Pinky.R
+    400058: Pinky.R_end
+    400060: Plane
+    400062: Sphere
+    400064: Toe.L
+    400066: Toe.L_end
+    400068: Toe.R
+    400070: Toe.R_end
+    400072: //RootNode
+    400074: UpperArm.L
+    400076: UpperArm.R
+    400078: UpperEar.L
+    400080: UpperEar.L_end
+    400082: UpperEar.R
+    400084: UpperEar.R_end
+    400086: UpperLeg.L
+    400088: UpperLeg.R
+    400090: UpperSpine
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Icosphere
+    2300006: Icosphere.001
+    2300008: Plane
+    2300010: Sphere
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Icosphere
+    3300006: Icosphere.001
+    3300008: Plane
+    3300010: Sphere
+    4300000: Cube.001
+    4300002: Cube
+    4300004: Sphere
+    4300006: Icosphere.001
+    4300008: Icosphere
+    4300010: Plane
+    7400000: Armature|A T POSE
+    7400002: Armature|Blackout
+    7400004: Armature|Crawling
+    7400006: Armature|CrouchL
+    7400008: Armature|CrouchR
+    7400010: Armature|Falling
+    7400012: Armature|Flip
+    7400014: Armature|GetUp
+    7400016: Armature|Hanging
+    7400018: Armature|Idle
+    7400020: Armature|Jump
+    7400022: Armature|Landing
+    7400024: Armature|Running
+    7400026: Armature|SlideR
+    7400028: Armature|Smash
+    7400030: Armature|SplitJump
+    7400032: Armature|Warped
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2100 @@
+fileFormatVersion: 2
+guid: 3af08fac06d82c1409bd0f216ecb18cd
+timeCreated: 1492080463
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: CrashObject
+    100006: Fingers.L
+    100008: Fingers.L_end
+    100010: Fingers.R
+    100012: Fingers.R_end
+    100014: Foot.L
+    100016: Foot.R
+    100018: Hand.L
+    100020: Hand.R
+    100022: Head
+    100024: Hips
+    100026: LowerArm.L
+    100028: LowerArm.R
+    100030: LowerEar.L
+    100032: LowerEar.R
+    100034: LowerLeg.L
+    100036: LowerLeg.R
+    100038: LowerNose
+    100040: LowerSpine
+    100042: MiddleNose
+    100044: Nose
+    100046: Nose_end
+    100048: Pinky.L
+    100050: Pinky.L_end
+    100052: Pinky.R
+    100054: Pinky.R_end
+    100056: Toe.L
+    100058: Toe.L_end
+    100060: Toe.R
+    100062: Toe.R_end
+    100064: UpperArm.L
+    100066: UpperArm.R
+    100068: UpperEar.L
+    100070: UpperEar.L_end
+    100072: UpperEar.R
+    100074: UpperEar.R_end
+    100076: UpperLeg.L
+    100078: UpperLeg.R
+    100080: UpperSpine
+    400000: Armature
+    400002: //RootNode
+    400004: CrashObject
+    400006: Fingers.L
+    400008: Fingers.L_end
+    400010: Fingers.R
+    400012: Fingers.R_end
+    400014: Foot.L
+    400016: Foot.R
+    400018: Hand.L
+    400020: Hand.R
+    400022: Head
+    400024: Hips
+    400026: LowerArm.L
+    400028: LowerArm.R
+    400030: LowerEar.L
+    400032: LowerEar.R
+    400034: LowerLeg.L
+    400036: LowerLeg.R
+    400038: LowerNose
+    400040: LowerSpine
+    400042: MiddleNose
+    400044: Nose
+    400046: Nose_end
+    400048: Pinky.L
+    400050: Pinky.L_end
+    400052: Pinky.R
+    400054: Pinky.R_end
+    400056: Toe.L
+    400058: Toe.L_end
+    400060: Toe.R
+    400062: Toe.R_end
+    400064: UpperArm.L
+    400066: UpperArm.R
+    400068: UpperEar.L
+    400070: UpperEar.L_end
+    400072: UpperEar.R
+    400074: UpperEar.R_end
+    400076: UpperLeg.L
+    400078: UpperLeg.R
+    400080: UpperSpine
+    4300000: CrashObject
+    7400000: A T POSE
+    7400002: Blackout
+    7400004: Crawling
+    7400006: CrouchL
+    7400008: CrouchR
+    7400010: Falling
+    7400012: Flip
+    7400014: GetUp
+    7400016: Hanging
+    7400018: Idle
+    7400020: Jump
+    7400022: Landing
+    7400024: Running
+    7400026: SlideR
+    7400028: Smash
+    7400030: SplitJump
+    7400032: Warped
+    7400034: CrashObject|Running
+    9500000: //RootNode
+    13700000: CrashObject
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: A T POSE
+      takeName: Armature|A T POSE
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Blackout
+      takeName: Armature|Blackout
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Crawling
+      takeName: Armature|Crawling
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CrouchL
+      takeName: Armature|CrouchL
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CrouchR
+      takeName: Armature|CrouchR
+      firstFrame: 0
+      lastFrame: 5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Falling
+      takeName: Armature|Falling
+      firstFrame: 0
+      lastFrame: 4
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Flip
+      takeName: Armature|Flip
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: GetUp
+      takeName: Armature|GetUp
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: OnPlayerGetup
+        data: 
+        objectReferenceParameter: {fileID: 110926, guid: b52b98a30c125814d9ad4f692c7a7850,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hanging
+      takeName: Armature|Hanging
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Jump
+      takeName: Armature|Jump
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: OnPlayerJumpAnimationPlay
+        data: 
+        objectReferenceParameter: {fileID: 110926, guid: b52b98a30c125814d9ad4f692c7a7850,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Landing
+      takeName: Armature|Landing
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: OnPlayerLandAnimationPlay
+        data: 
+        objectReferenceParameter: {fileID: 110926, guid: b52b98a30c125814d9ad4f692c7a7850,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Running
+      takeName: Armature|Running
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.40465853
+        functionName: Footstep
+        data: 
+        objectReferenceParameter: {fileID: 110926, guid: b52b98a30c125814d9ad4f692c7a7850,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8433156
+        functionName: Footstep
+        data: 
+        objectReferenceParameter: {fileID: 110926, guid: b52b98a30c125814d9ad4f692c7a7850,
+          type: 2}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SlideR
+      takeName: Armature|SlideR
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Slide
+        data: 
+        objectReferenceParameter: {fileID: 110926, guid: b52b98a30c125814d9ad4f692c7a7850,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9358681
+        functionName: SlideEnding
+        data: 
+        objectReferenceParameter: {fileID: 110926, guid: b52b98a30c125814d9ad4f692c7a7850,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Smash
+      takeName: Armature|Smash
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SplitJump
+      takeName: Armature|SplitJump
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Warped
+      takeName: Armature|Warped
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Hips
+        weight: 1
+      - path: Armature/Hips/LowerSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.L/UpperEar.L/UpperEar.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerEar.R/UpperEar.R/UpperEar.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/LowerNose/MiddleNose/Nose/Nose_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Hand.L/Fingers.L/Fingers.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.L/LowerArm.L/Pinky.L/Pinky.L_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Hand.R/Fingers.R/Fingers.R_end
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R
+        weight: 1
+      - path: Armature/Hips/LowerSpine/UpperSpine/Head/UpperArm.R/LowerArm.R/Pinky.R/Pinky.R_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L
+        weight: 1
+      - path: Armature/Hips/UpperLeg.L/LowerLeg.L/Foot.L/Toe.L/Toe.L_end
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R
+        weight: 1
+      - path: Armature/Hips/UpperLeg.R/LowerLeg.R/Foot.R/Toe.R/Toe.R_end
+        weight: 1
+      - path: CrashObject
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

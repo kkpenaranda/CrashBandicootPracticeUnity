@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 8f179cf30420ef44c9ee411606097083
+timeCreated: 1506704627
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Cube_001
+    100004: Fingers_L
+    100006: Fingers_R
+    100008: Foot_L
+    100010: Foot_R
+    100012: Hand_L
+    100014: Hand_R
+    100016: Head
+    100018: Hips
+    100020: LowerArm_L
+    100022: LowerArm_R
+    100024: LowerEar_L
+    100026: LowerEar_R
+    100028: LowerLeg_L
+    100030: LowerLeg_R
+    100032: LowerNose
+    100034: LowerSpine
+    100036: MiddleNose
+    100038: Nose
+    100040: Pinky_L
+    100042: Pinky_R
+    100044: Plane
+    100046: Toe_L
+    100048: Toe_R
+    100050: //RootNode
+    100052: UpperArm_L
+    100054: UpperArm_R
+    100056: UpperEar_L
+    100058: UpperEar_R
+    100060: UpperLeg_L
+    100062: UpperLeg_R
+    100064: UpperSpine
+    400000: Armature
+    400002: Cube_001
+    400004: Fingers_L
+    400006: Fingers_R
+    400008: Foot_L
+    400010: Foot_R
+    400012: Hand_L
+    400014: Hand_R
+    400016: Head
+    400018: Hips
+    400020: LowerArm_L
+    400022: LowerArm_R
+    400024: LowerEar_L
+    400026: LowerEar_R
+    400028: LowerLeg_L
+    400030: LowerLeg_R
+    400032: LowerNose
+    400034: LowerSpine
+    400036: MiddleNose
+    400038: Nose
+    400040: Pinky_L
+    400042: Pinky_R
+    400044: Plane
+    400046: Toe_L
+    400048: Toe_R
+    400050: //RootNode
+    400052: UpperArm_L
+    400054: UpperArm_R
+    400056: UpperEar_L
+    400058: UpperEar_R
+    400060: UpperLeg_L
+    400062: UpperLeg_R
+    400064: UpperSpine
+    2300000: Cube_001
+    2300002: Plane
+    3300000: Cube_001
+    3300002: Plane
+    4300000: Cube_001
+    4300002: Plane
+    7400000: Default Take
+    7400002: A_T_POSE
+    7400004: Blackout
+    7400006: Crawling
+    7400008: CrouchL
+    7400010: CrouchR
+    7400012: Falling
+    7400014: Flip
+    7400016: GetUp
+    7400018: Hanging
+    7400020: Idle
+    7400022: Jump
+    7400024: Landing
+    7400026: Running
+    7400028: SlideR
+    7400030: Smash
+    7400032: SplitJump
+    7400034: Warped
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

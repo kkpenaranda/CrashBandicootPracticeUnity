@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 4045ee5a02e20df45b47abe752403234
+timeCreated: 1490874443
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aku Aku Golden
+    100002: Armature
+    100004: Beard
+    100006: Beard_end
+    100008: Blue
+    100010: Blue_end
+    100012: //RootNode
+    100014: Main
+    100016: Purble
+    100018: Purble_end
+    100020: Red
+    100022: Red_end
+    100024: Yellow
+    100026: Yellow_end
+    400000: Aku Aku Golden
+    400002: Armature
+    400004: Beard
+    400006: Beard_end
+    400008: Blue
+    400010: Blue_end
+    400012: //RootNode
+    400014: Main
+    400016: Purble
+    400018: Purble_end
+    400020: Red
+    400022: Red_end
+    400024: Yellow
+    400026: Yellow_end
+    4300000: Aku Aku Golden
+    7400000: Floating
+    7400002: Flying
+    9500000: //RootNode
+    13700000: Aku Aku Golden
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Floating
+      takeName: Armature|Floating
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aku Aku Golden
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Beard
+        weight: 1
+      - path: Armature/Main/Beard/Beard_end
+        weight: 1
+      - path: Armature/Main/Blue
+        weight: 1
+      - path: Armature/Main/Blue/Blue_end
+        weight: 1
+      - path: Armature/Main/Purble
+        weight: 1
+      - path: Armature/Main/Purble/Purble_end
+        weight: 1
+      - path: Armature/Main/Red
+        weight: 1
+      - path: Armature/Main/Red/Red_end
+        weight: 1
+      - path: Armature/Main/Yellow
+        weight: 1
+      - path: Armature/Main/Yellow/Yellow_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Flying
+      takeName: Armature|Flying
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aku Aku Golden
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Main
+        weight: 1
+      - path: Armature/Main/Beard
+        weight: 1
+      - path: Armature/Main/Beard/Beard_end
+        weight: 1
+      - path: Armature/Main/Blue
+        weight: 1
+      - path: Armature/Main/Blue/Blue_end
+        weight: 1
+      - path: Armature/Main/Purble
+        weight: 1
+      - path: Armature/Main/Purble/Purble_end
+        weight: 1
+      - path: Armature/Main/Red
+        weight: 1
+      - path: Armature/Main/Red/Red_end
+        weight: 1
+      - path: Armature/Main/Yellow
+        weight: 1
+      - path: Armature/Main/Yellow/Yellow_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 893fd5f321a4f9d4eb5f07841f276d69
+timeCreated: 1490606387
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: C
+    100004: C2
+    100006: C2_end
+    100008: C_end
+    100010: CheckPoint
+    100012: //RootNode
+    100014: E
+    100016: E_end
+    100018: H
+    100020: H_end
+    100022: I
+    100024: I_end
+    100026: K
+    100028: K_end
+    100030: N
+    100032: N_end
+    100034: O
+    100036: O_end
+    100038: P
+    100040: P_end
+    100042: Root
+    100044: T
+    100046: T_end
+    400000: Armature
+    400002: C
+    400004: C2
+    400006: C2_end
+    400008: C_end
+    400010: CheckPoint
+    400012: //RootNode
+    400014: E
+    400016: E_end
+    400018: H
+    400020: H_end
+    400022: I
+    400024: I_end
+    400026: K
+    400028: K_end
+    400030: N
+    400032: N_end
+    400034: O
+    400036: O_end
+    400038: P
+    400040: P_end
+    400042: Root
+    400044: T
+    400046: T_end
+    4300000: CheckPoint
+    7400000: Sort
+    9500000: //RootNode
+    13700000: CheckPoint
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sort
+      takeName: Armature|Sort
+      firstFrame: 0
+      lastFrame: 151
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.024335153
+        functionName: OnLetterMove
+        data: C
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.05763206
+        functionName: OnLetterMove
+        data: H
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.09148018
+        functionName: OnLetterMove
+        data: E
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.122182965
+        functionName: OnLetterMove
+        data: C2
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.15359247
+        functionName: OnLetterMove
+        data: K
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.33977225
+        functionName: OnLetterMove
+        data: C
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37267363
+        functionName: OnLetterMove
+        data: H
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.40447578
+        functionName: OnLetterMove
+        data: E
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.4366706
+        functionName: OnLetterMove
+        data: C2
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.47200626
+        functionName: OnLetterMove
+        data: K
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.58743614
+        functionName: OnLetterMove
+        data: P
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6200235
+        functionName: OnLetterMove
+        data: O
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6533175
+        functionName: OnLetterMove
+        data: I
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6829407
+        functionName: OnLetterMove
+        data: N
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.7176416
+        functionName: OnLetterMove
+        data: T
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8409894
+        functionName: OnLetterMove
+        data: P
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.87444043
+        functionName: OnLetterMove
+        data: O
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9116608
+        functionName: OnLetterMove
+        data: I
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.94401276
+        functionName: OnLetterMove
+        data: N
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9804478
+        functionName: OnLetterMove
+        data: T
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.36018854
+        functionName: OnLetterHide
+        data: C
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.3938751
+        functionName: OnLetterHide
+        data: H
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.4225363
+        functionName: OnLetterHide
+        data: E
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.46101296
+        functionName: OnLetterHide
+        data: C2
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.4972909
+        functionName: OnLetterHide
+        data: K
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.86274046
+        functionName: OnLetterHide
+        data: P
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.89250094
+        functionName: OnLetterHide
+        data: O
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9328622
+        functionName: OnLetterHide
+        data: I
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9616805
+        functionName: OnLetterHide
+        data: N
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.999686
+        functionName: OnLetterHide
+        data: T
+        objectReferenceParameter: {fileID: 172510, guid: 864896963cc79f840b46da846a2b61a2,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/C
+        weight: 1
+      - path: Armature/Root/C/C_end
+        weight: 1
+      - path: Armature/Root/C2
+        weight: 1
+      - path: Armature/Root/C2/C2_end
+        weight: 1
+      - path: Armature/Root/E
+        weight: 1
+      - path: Armature/Root/E/E_end
+        weight: 1
+      - path: Armature/Root/H
+        weight: 1
+      - path: Armature/Root/H/H_end
+        weight: 1
+      - path: Armature/Root/I
+        weight: 1
+      - path: Armature/Root/I/I_end
+        weight: 1
+      - path: Armature/Root/K
+        weight: 1
+      - path: Armature/Root/K/K_end
+        weight: 1
+      - path: Armature/Root/N
+        weight: 1
+      - path: Armature/Root/N/N_end
+        weight: 1
+      - path: Armature/Root/O
+        weight: 1
+      - path: Armature/Root/O/O_end
+        weight: 1
+      - path: Armature/Root/P
+        weight: 1
+      - path: Armature/Root/P/P_end
+        weight: 1
+      - path: Armature/Root/T
+        weight: 1
+      - path: Armature/Root/T/T_end
+        weight: 1
+      - path: CheckPoint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
