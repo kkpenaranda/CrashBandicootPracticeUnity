@@ -33,6 +33,7 @@ TagManager:
   - Aku Aku Crate
   - Smash
   - Floor
+  - PlayerTrigger
   layers:
   - Default
   - TransparentFX
